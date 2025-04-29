@@ -15,3 +15,4 @@ Technologies:
 	•	MediaPipe Tasks Vision
 	•	Vite
 	•	HTML5 Video + Canvas
+<img width="1035" alt="image" src="https://github.com/user-attachments/assets/8d5cf4e9-737b-492f-918d-5197c446135a" />
